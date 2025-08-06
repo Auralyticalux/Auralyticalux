@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Joseph Renacido</h1>
 <h3 align="center">A computer science student</h3>
 
-- 🌱 I’m currently learning **GIT**
+- 🌱 I’m currently learning **FIGMA**
 
 - 📫 How to reach me **lukerenacido@gmail.com**
 
